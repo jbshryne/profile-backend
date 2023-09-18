@@ -1,0 +1,14 @@
+[
+  {
+    "name": "project1",
+    "live": "https://jbshryne.github.io/mtg-project",
+    "git": "https://github.com/jbshryne/mtg-project.git",
+    "image": "https://i.imgur.com/2W35DzI.png"
+  },
+  {
+    "name": "project2",
+    "live": "https://chessmixed.onrender.com",
+    "git": "https://github.com/jbshryne/chess-project",
+    "image": "https://i.imgur.com/sU2yBeQ.jpg"
+  }
+]
