@@ -1,14 +1,40 @@
 [
   {
-    "name": "project1",
-    "live": "https://jbshryne.github.io/mtg-project",
-    "git": "https://github.com/jbshryne/mtg-project.git",
-    "image": "https://i.imgur.com/2W35DzI.png"
-  },
-  {
-    "name": "project2",
+    "name": "CHESSMIXED",
+    "role": "Sole Developer",
+    "description": "Currently a full CRUD Chess app, where a user can play & save multiple games and set custom board positions.  Actively adding features like playing against ChatGPT, player vs player, and a special \"higher variance\" game mode.",
     "live": "https://chessmixed.onrender.com",
     "git": "https://github.com/jbshryne/chess-project",
-    "image": "https://i.imgur.com/sU2yBeQ.jpg"
+    "images": [
+      "https://i.imgur.com/tbjpKqJ.jpg",
+      "https://i.imgur.com/XCZpflf.png"
+    ]
+  },
+  {
+    "name": "MTG Conclave",
+    "role": "Sole Developer",
+    "description": "A database search site for the card game Magic the Gathering that utilizes the Scryfall API, adding unique search options like sorting results by Card Type and showing a random card within given parameters.",
+    "live": "https://jbshryne.github.io/mtg-project",
+    "git": "https://github.com/jbshryne/mtg-project.git",
+    "images": [
+      "https://i.imgur.com/IDzUsVD.png",
+      "https://i.imgur.com/2W35DzI.png"
+    ]
+  },
+  {
+    "name": "The Living Room",
+    "role": "Composer / Sound Designer",
+    "description": "A cozy-feeling hub app for a line of retro-style minigames, The Living Room puts you back in your childhood home, with a stack of cartridges next to a boxy old game system. ",
+    "live": "https://apps.apple.com/app/id1153215591",
+    "git": "",
+    "images": ["https://i.imgur.com/RSKyGNT.png"]
+  },
+  {
+    "name": "Dino Finder",
+    "role": "Composer / Sound Designer",
+    "description": "A charming, fast-paced romp in the Mesozoic...  Find the matching Dino, Fish, or Flower before the temperature boils over!  Musically, a single madcap theme plays throughout, switching genres to match the vibe of each area.",
+    "live": "https://apps.apple.com/app/id1153215591",
+    "git": "",
+    "images": ["https://i.imgur.com/PUfIHI1.png"]
   }
 ]
